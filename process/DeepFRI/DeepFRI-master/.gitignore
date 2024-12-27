@@ -1,0 +1,21 @@
+catalogues
+__pycache__
+.ropeproject
+deepfrier/.ropeproject
+
+# projects
+pred_cmaps_benchmark
+tasks.txt
+rosetta_aupr_perf.py
+random5k
+new_pdb
+old_slurm
+ncov2019
+sifts_models
+results
+
+
+# models
+trained_models/*
+newest_trained/*
+alphafold2
